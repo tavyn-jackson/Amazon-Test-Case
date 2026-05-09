@@ -9,5 +9,6 @@ This project focuses on manual testing of the Amazon Electronics section to ensu
 The purpose of this test case is to verify that the Amazon Electronics section displays only electronics-related products and correctly filters out unrelated items such as furniture or products from other categories. This helps ensure accurate product categorization, improves the user experience, and validates that the website’s filtering and navigation functionality works as expected.
 
 <br />
+<br />
 
 <img src="TestCase.PNG" height="80%" width="80%" alt="Test Case Image"/>
