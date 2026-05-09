@@ -11,4 +11,4 @@ The purpose of this test case is to verify that the Amazon Electronics section d
 <br />
 <br />
 
-<img src="TestCase.PNG" height="80%" width="80%" alt="Test Case Image"/>
+<img src="TestCase.png" height="80%" width="80%" alt="Test Case Image"/>
