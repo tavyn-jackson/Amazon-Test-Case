@@ -9,6 +9,43 @@ This project focuses on manual testing of the Amazon Electronics section to ensu
 The purpose of this test case is to verify that the Amazon Electronics section displays only electronics-related products and correctly filters out unrelated items such as furniture or products from other categories. This helps ensure accurate product categorization, improves the user experience, and validates that the website’s filtering and navigation functionality works as expected.
 
 <br />
+<h2>Resources Used:</h2>
+- <b>Browser: Chrome, Edge, or Firefox </b>
+<br />
+- <b>URL: www.amazon.com</b>
+<br />
+<br />
+<h2>Test Case File:</h2>
+<p align="center">
+<img src="TestCase.png" height="80%" width="80%" alt="Test Case Image"/>
+</p>
 <br />
 
-<img src="TestCase.png" height="80%" width="80%" alt="Test Case Image"/>
+<h2>Test Execution:</h2>
+<br />
+- <b>Open the preferred web browser ( Chrome, Edge, or Firefox )</b>
+<br />
+- <b>Type in www.amazon.com in the browser URL header</b>
+<br />
+- <b>Select "All" icon list</b>
+<br />
+- <b>Scroll down to shop by department and select electronics</b>
+<br />
+<br />
+<p align="center">
+<img src="Amazon.png" height="80%" width="80%" alt="Amazon"/>
+<img src="List All.png" height="80%" width="80%" alt="Amazon List"/>
+</p>
+<br />
+- <b>Will be redirected to the electronics page</b>
+<br />
+<br />
+<p align="center">
+<img src="Electronics.png" height="80%" width="80%" alt="Electronics"/>
+</p>
+<br />
+<br />
+- <b>Search through page to confirm there is no other product other than electronics</b>
+<br />
+
+
