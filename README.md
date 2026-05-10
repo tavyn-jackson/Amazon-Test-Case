@@ -17,7 +17,7 @@ The purpose of this test case is to verify that the Amazon Electronics section d
 <br />
 <h2>Test Case File:</h2>
 <p align="center">
-<img src="TestCase.png" height="80%" width="80%" alt="Test Case Image"/>
+<img src="./Images/TestCase.png" height="80%" width="80%" alt="Test Case Image"/>
 </p>
 <br />
 
@@ -33,15 +33,15 @@ The purpose of this test case is to verify that the Amazon Electronics section d
 <br />
 <br />
 <p align="center">
-<img src="Amazon.png" height="80%" width="80%" alt="Amazon"/>
-<img src="List All.png" height="80%" width="80%" alt="Amazon List"/>
+<img src="./Images/Amazon.png" height="80%" width="80%" alt="Amazon"/>
+<img src="./Images/List All.png" height="80%" width="80%" alt="Amazon List"/>
 </p>
 <br />
 - <b>Will be redirected to the electronics page</b>
 <br />
 <br />
 <p align="center">
-<img src="Electronics.png" height="80%" width="80%" alt="Electronics"/>
+<img src="./Images/Electronics.png" height="80%" width="80%" alt="Electronics"/>
 </p>
 <br />
 <br />
